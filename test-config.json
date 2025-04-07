@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "test_files": ["test_hello_world.py", "test_math.py"],
+  "code_file": "test-python-code.py"
+}
